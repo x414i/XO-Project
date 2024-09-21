@@ -1,0 +1,9 @@
+body{
+    background-color: #1b1b1b;
+}
+#header{
+    background-color: #c6c6c636;
+    color: white;
+    border-radius: 30px;
+    box-shadow: 0px 5px 13px rgba(0, 0, 0,0.3);
+}
